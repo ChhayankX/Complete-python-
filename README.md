@@ -1,2 +1,3 @@
-# Complete-python-
-Everything you need about python 
+First project 
+random project just for funnnn
+
